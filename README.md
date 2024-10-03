@@ -1,0 +1,3 @@
+# Patrón Memento en PHP: Guarda y Restaura el Estado de Objetos de Forma Segura
+
+- En este tutorial, exploraremos el Patrón Memento en PHP, una solución efectiva para guardar y restaurar el estado de objetos sin violar el principio de encapsulamiento. Aprenderás cómo implementar este patrón en tus proyectos para permitir que los objetos regresen a estados anteriores de manera segura y eficiente, manteniendo el control total sobre los cambios. Este enfoque es especialmente útil en aplicaciones como editores de texto, juegos o cualquier sistema que requiera un historial de acciones. ¡Optimiza la gestión de estados y mejora la flexibilidad de tu código con este poderoso patrón de diseño!
